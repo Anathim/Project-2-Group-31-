@@ -17,3 +17,24 @@ body.login div#login form#loginform p.submit input#wp-submit{
 body.login div#login p#nav a{
 //lost passwrod link
 }
+
+//Form
+{}
+
+//Section title
+.forminator-title{}
+
+//Section Subtitles
+.forminator-subtitle {}
+
+//field Labels
+.forminator-label {}
+
+//field Description
+.forminator-description {}
+
+//input
+.forminator-input {}
+
+//text area
+.forminator-textarea {}
