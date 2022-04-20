@@ -1,5 +1,5 @@
 //Form
-{}
+{padding:  }
 
 //Section title
 .forminator-title{}
@@ -8,7 +8,9 @@
 .forminator-subtitle {}
 
 //field Labels
-.forminator-label {}
+.forminator-label {
+
+}
 
 //field Description
 .forminator-description {}
